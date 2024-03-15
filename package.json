@@ -53,7 +53,7 @@
     "yuidocjs": "^0.10.2"
   },
   "dependencies": {
-    "axios": "0.17.0",
+    "axios": "0.21.1",
     "smarttv-device-recognizer": "^1.0.0",
     "smarttv-ui-controller": "0.0.24"
   }
